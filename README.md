@@ -4,13 +4,10 @@ This Android app provides weather forecasts for various locations using the Weat
 
 ## Table of Contents
 
-- [Demo](#demo)
+
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-- Demo video CheckOnces- https://youtu.be/CnO14qxsqMA?si=Ho6XXzux0jk9Kunz
 
 
 You can watch a demonstration of the app by clicking the video above.
